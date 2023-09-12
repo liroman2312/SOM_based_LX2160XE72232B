@@ -2,6 +2,9 @@
 
 
 
+
+
+
 Introducing System-on-Module (SOM) featuring the powerful LX2160XE72232B CPU, 
 a versatile solution designed to meet computing needs. With a robust set of specifications, this SOM is engineered to excel in various applications:
 
