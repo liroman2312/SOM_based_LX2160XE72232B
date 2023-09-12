@@ -3,7 +3,7 @@
 
 
 
-
+##Features:
 
 Introducing System-on-Module (SOM) featuring the powerful LX2160XE72232B CPU, 
 a versatile solution designed to meet computing needs. With a robust set of specifications, this SOM is engineered to excel in various applications:
@@ -23,7 +23,7 @@ a versatile solution designed to meet computing needs. With a robust set of spec
   Two CAN bus outputs and an XSPI interface enhance communication versatility.
 
 
-PCB SPECS:
+##PCB SPECS:
 
 •	Size: The PCB measures a compact 122 x 80.5 mm, making it suitable for space-constrained applications.
 
