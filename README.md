@@ -34,14 +34,9 @@ a versatile solution designed to meet computing needs. With a robust set of spec
 •	Via Holes: The PCB incorporates four via holes specifically designed for board-to-board connections and heat sink mounting. 
   These vias enhance thermal management and enable seamless connections between different PCBs or a heat sink.
 
-## Design fiels
+**scematic and original STEP fiel attcaeh for view 
 
-   1. Scematic
-   2. Step fiel
-      
-
-
-## 3D-model viwer 
+## 3D-model viewr 
 
 https://gmail3577420.autodesk360.com/g/shares/SH512d4QTec90decfa6ea1672dd69b08ffb8?mode=embed
 
@@ -49,11 +44,11 @@ https://gmail3577420.autodesk360.com/g/shares/SH512d4QTec90decfa6ea1672dd69b08ff
 
 ![DES](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/ae525086-421b-4b03-80ff-5e7bb2c15547)
 
-## Top Viwe
+## Top View
 
 ![TOP11](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/e234e24f-cd5c-489a-9875-508e229e0786)
 
-## Bottom viwe
+## Bottom view
 
 ![BOT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/44b46ba0-a50a-4e6a-b0c9-9d28b4865ed3)
 
