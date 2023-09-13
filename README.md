@@ -1,4 +1,4 @@
-# SOM_based_LX2160XE72232B
+# SOM based LX2160XE72232B CPU
 
 
 
