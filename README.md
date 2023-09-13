@@ -41,3 +41,11 @@ https://gmail3577420.autodesk360.com/g/shares/SH512d4QTec90decfa6ea1672dd69b08ff
 ## Routing & physical design
 
 ![Untitled](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/f113d364-1520-41d9-82ff-6e81d9d28416)
+
+## Top Viwe
+
+![LX2160XE72232B BASED CPU top](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/b11c359e-a77c-4ab2-8c56-e50e40623976)
+
+## Bottom viwe
+
+![LX2160XE72232B BASED CPU bot](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/6427aef0-64d0-4558-b25f-4cf70d7c1e98)
