@@ -51,8 +51,9 @@ https://gmail3577420.autodesk360.com/g/shares/SH512d4QTec90decfa6ea1672dd69b08ff
 
 ## Top Viwe
 
-![LX2160XE72232B BASED CPU top](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/b11c359e-a77c-4ab2-8c56-e50e40623976)
+![BOT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/42ea010d-50dc-4357-99d3-d02db86aebde)
 
 ## Bottom viwe
 
-![LX2160XE72232B BASED CPU bot](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/6427aef0-64d0-4558-b25f-4cf70d7c1e98)
+![BOT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/44b46ba0-a50a-4e6a-b0c9-9d28b4865ed3)
+
