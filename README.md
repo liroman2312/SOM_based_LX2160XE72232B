@@ -37,3 +37,7 @@ a versatile solution designed to meet computing needs. With a robust set of spec
 ## 3D-model viwer 
 
 https://gmail3577420.autodesk360.com/g/shares/SH512d4QTec90decfa6ea1672dd69b08ffb8?mode=embed
+
+## Routing & physical design
+
+![Untitled](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/f113d364-1520-41d9-82ff-6e81d9d28416)
