@@ -51,7 +51,7 @@ https://gmail3577420.autodesk360.com/g/shares/SH512d4QTec90decfa6ea1672dd69b08ff
 
 ## Top Viwe
 
-![BOT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/42ea010d-50dc-4357-99d3-d02db86aebde)
+![TOP11](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/e234e24f-cd5c-489a-9875-508e229e0786)
 
 ## Bottom viwe
 
