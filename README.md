@@ -34,4 +34,3 @@ a versatile solution designed to meet computing needs. With a robust set of spec
 •	Via Holes: The PCB incorporates four via holes specifically designed for board-to-board connections and heat sink mounting. 
   These vias enhance thermal management and enable seamless connections between different PCBs or a heat sink.
 
-<model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" src="shared-assets/models/NeilArmstrong.glb" ar environment-image="shared-assets/environments/moon_1k.hdr" poster="shared-assets/models/NeilArmstrong.webp" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
