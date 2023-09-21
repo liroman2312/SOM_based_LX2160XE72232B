@@ -50,6 +50,7 @@ https://gmail3577420.autodesk360.com/g/shares/SH512d4QTec90decfa6ea1672dd69b08ff
 
 ## Bottom view
 
-![bot](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/84f8bd12-ba5f-4877-9fcb-ea5e82e66be7)
+![bot](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/7b8d053d-4df9-4d47-bc89-0d39ad8ce997)
+
 
 
