@@ -25,16 +25,16 @@ a versatile solution designed to meet computing needs. With a robust set of spec
 
 ## PCB SPECS:
 
-•	Size: The PCB measures a compact 122 x 80.5 mm, making it suitable for space-constrained applications.
+•	Size: The PCB measures a compact 133 x 80.5 mm, making it suitable for space-constrained applications.
 
 •	Layer Count: It features an impressive 32-layer design, providing ample routing options for complex electronic circuits.
 
-•	Thickness: The board has a thickness of 3.4 mm, striking a balance between durability and space efficiency.
+•	Thickness: The board has a thickness of 3 mm, striking a balance between durability and space efficiency.
 
 •	Via Holes: The PCB incorporates four via holes specifically designed for board-to-board connections and heat sink mounting. 
   These vias enhance thermal management and enable seamless connections between different PCBs or a heat sink.
 
-**scematic and original STEP fiel attcaeh for view 
+**scematic and STEP fiel attcaeh for view 
 
 ## 3D-model viewer 
 
