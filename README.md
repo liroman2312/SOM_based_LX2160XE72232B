@@ -46,9 +46,9 @@ https://gmail3577420.autodesk360.com/g/shares/SH512d4QTec90decfa6ea1672dd69b08ff
 
 ## Top View
 
-![TOP11](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/e234e24f-cd5c-489a-9875-508e229e0786)
+![top](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/bb50305f-39ac-4ea9-a944-b2fa20fa5ab6)
 
 ## Bottom view
 
-![BOT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/44b46ba0-a50a-4e6a-b0c9-9d28b4865ed3)
+![bot](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/7b0769e9-0cbf-46de-a7fb-a2d520cff661)
 
