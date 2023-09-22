@@ -38,7 +38,7 @@ a versatile solution designed to meet computing needs. With a robust set of spec
 
 ## 3D-model viewer 
 
-https://gmail3577420.autodesk360.com/shares/public/SH512d4QTec90decfa6eefa04e0baa5d2b6b?mode=embed
+https://gmail3577420.autodesk360.com/shares/public/SH512d4QTec90decfa6eb761e04cfa2d504f?mode=embed
 
 ## Routing & physical design
 
