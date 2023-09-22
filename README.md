@@ -42,7 +42,8 @@ https://gmail3577420.autodesk360.com/shares/public/SH512d4QTec90decfa6eefa04e0ba
 
 ## Routing & physical design
 
-![route](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/8ff65e7c-b310-4b9f-b6d2-e1ff106b6be6)
+![ROTTT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/2c5f0afe-c8ec-4fd9-bbe8-21a49da208f0)
+
 
 ## Top View
 
@@ -50,7 +51,7 @@ https://gmail3577420.autodesk360.com/shares/public/SH512d4QTec90decfa6eefa04e0ba
 
 ## Bottom view
 
-![bot](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/7b8d053d-4df9-4d47-bc89-0d39ad8ce997)
+![DWN](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/f1607d36-52a6-4338-ba4e-f83d13cc9da7)
 
 
 
