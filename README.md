@@ -42,7 +42,7 @@ https://gmail3577420.autodesk360.com/shares/public/SH512d4QTec90decfa6eb761e04cf
 
 ## Routing & physical design
 
-![ROTTT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/2c5f0afe-c8ec-4fd9-bbe8-21a49da208f0)
+![Untitled](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/2da0d5e5-d980-4b1c-b298-1b7238418410)
 
 
 ## Top View
