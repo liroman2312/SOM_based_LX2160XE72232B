@@ -38,20 +38,19 @@ a versatile solution designed to meet computing needs. With a robust set of spec
 
 ## 3D-model viewer 
 
-https://gmail3577420.autodesk360.com/shares/public/SH512d4QTec90decfa6eb761e04cfa2d504f?mode=embed
+https://autode.sk/3Py09tu
 
 ## Routing & physical design
 
-![ROUT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/4f9dd0ab-6218-42cd-9e8b-7b38afe94c6c)
-
+![ROUT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/9732b3db-dfbc-4b4c-ad76-8d11ef4fdebb)
 
 ## Top View
 
-![top](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/bb50305f-39ac-4ea9-a944-b2fa20fa5ab6)
+![TOP](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/5fd40403-291e-47e1-b839-9fa4ba385a8d)
 
 ## Bottom view
 
-![DWN](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/f1607d36-52a6-4338-ba4e-f83d13cc9da7)
+![BOT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/2927eaf9-03f9-4181-bb94-77e8d08322e5)
 
 
 
