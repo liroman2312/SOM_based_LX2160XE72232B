@@ -11,7 +11,7 @@ a versatile solution designed to meet computing needs. With a robust set of spec
 •	Processor: The SOM boasts the LX2160XE72232B CPU, equipped with 16 cores ARM Cortex-A72  
   for outstanding processing capabilities.
   
-•	Storage: It includes a spacious 256 GB eMMC storage for data-intensive tasks and a 2GB NOR flash memory for fast and reliable program execution. 
+•	Storage: It includes a spacious 512 GB eMMC storage for data-intensive tasks and a 2GB NOR flash memory for fast and reliable program execution. 
    Additionally, a 1KBIT EPROM is available for flexible configuration.
    
 •	Memory: The dual DDR4 2400MHz DIMM RAM ports provide ample memory capacity to support your applications efficiently.
