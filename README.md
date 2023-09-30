@@ -44,11 +44,11 @@ https://autode.sk/3Py09tu
 
 ![ROUT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/9732b3db-dfbc-4b4c-ad76-8d11ef4fdebb)
 
-## Top View
+## CS View
 
 ![TOP](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/5fd40403-291e-47e1-b839-9fa4ba385a8d)
 
-## Bottom view
+## PS view
 
 ![BOT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/2927eaf9-03f9-4181-bb94-77e8d08322e5)
 
