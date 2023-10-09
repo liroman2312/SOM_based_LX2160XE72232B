@@ -42,7 +42,7 @@ https://autode.sk/3Py09tu
 
 ## Routing & physical design
 
-![ROUT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/9732b3db-dfbc-4b4c-ad76-8d11ef4fdebb)
+![image](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/b80beda6-f60e-4399-9844-29f2f2618a52)
 
 ## CS View
 
