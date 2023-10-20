@@ -19,8 +19,9 @@ a versatile solution designed to meet computing needs. With a robust set of spec
 •	Connectivity: The SOM features a versatile M.2 slot for expandable storage or connectivity options. 
   dual Wi-Fi channels (2.4GHz and 5GHz), Bluetooth, and HDMI with touch control for seamless user interaction.
   
-•	Expansion: It offers two PCIe outputs for high-speed peripheral connections, along with dual Ethernet management ports and two additional Ethernet ports for comprehensive networking capabilities. 
-  Two CAN bus outputs and an XSPI interface enhance communication versatility.
+•	Expansion: It offers two PCIe outputs for high-speed peripheral connections, along with dual Ethernet management ports and two additional Ethernet ports. 
+  Two CAN bus outputs, 16 PWM lins, 16 GPIO lins, 16 anlong lins, and an XSPI interface.
+  
 
 
 ## PCB SPECS:
@@ -38,11 +39,11 @@ a versatile solution designed to meet computing needs. With a robust set of spec
 
 ## 3D-model viewer 
 
-https://autode.sk/3Py09tu
+https://autode.sk/3FwGxkx
 
 ## Routing & physical design
 
-![image](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/b80beda6-f60e-4399-9844-29f2f2618a52)
+![image](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/daf78594-3fe8-47d3-aa7b-02f7a9c639dc)
 
 ## CS View
 
@@ -50,7 +51,7 @@ https://autode.sk/3Py09tu
 
 ## PS view
 
-![BOT](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/2927eaf9-03f9-4181-bb94-77e8d08322e5)
+![image](https://github.com/liroman2312/SOM_based_LX2160XE72232B/assets/101349420/ced55244-e156-4c28-bc9d-59d2c4c4db14)
 
 
 
